@@ -1,6 +1,4 @@
-## Streamlit Quick Start
-
-`Streamlit`에 대해 배우기 전, `1분`만에 `서비스`를 만들어 봅시다.
+## Quick Start
 
 저는 개인적으로 영화 선택에 시간을 너무 많이 써서 (고민하는게 러닝 타임보다 길다..)
 
