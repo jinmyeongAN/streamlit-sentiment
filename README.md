@@ -19,8 +19,4 @@ $ streamlit run [app.py](http://app.py/)
 혹은, 와이파이 사용시 외부기기(스마트폰 등)에서도 http://192.168.0.5:8501 주소로 이용가능
 ```
 ## 실행 화면
-- 데스크톱
 <img width="776" alt="스크린샷 2022-12-05 오전 2 23 04" src="https://user-images.githubusercontent.com/41921073/205506464-ef28a1f7-cb2d-48e8-a952-aea6340ebbc9.png">
-
-- 모바일
-![IMG_3615](https://user-images.githubusercontent.com/41921073/205506469-e2603d0a-3f56-447e-bfd7-bc30c8c7be33.PNG)
