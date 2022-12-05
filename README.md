@@ -9,7 +9,7 @@
 ```python
 $ git clone https://github.com/jinmyeongAN/streamlit-sentiment.git
 $ pip install -r requirements.txt
-$ streamlit run [app.py](http://app.py/)
+$ streamlit run app.py
 ```
 
 ### 2. 웹 페이지 접속
